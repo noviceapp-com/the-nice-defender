@@ -53,16 +53,26 @@ the lists below are based on [basic-rules.md](/_arch/_gitHub/_weAreThePlayMakers
 - ![read about the game]()
 - [![play the game]()]()
 
-5. list of graphics coresponding to bunny defender img files:
+5. list of assets for bunny defender:
 
-- explosion.png 72x72 px 3.76kb - ![]()
-- ghost.png 75x324 px 11kb - ![]()
-- hill.png 540x160 px 1.23kb - ![]()
-- loader_bar.png 454x66 px 330b - ![]()
-- sky.png 540x960px 4.31kb - ![]()
-- TitleBG.png 540x960px 150.09kb - ![]()
-- TitleImage.png 418x187px 17.53kb - ![]()
-- spritesheets/bunny.png 512x512px 90.58kb - ![]()
-- spritesheets/bunny.xml - []()
-- spritesheets/SpaceRock.png 1024x2048px 384.85kb - ![]()
-- spritesheets/SpaceRock.xml - []()
+- audio/bgm.mp3
+- audio/explosion.mp3
+- audio/hurt.mp3
+- audio/select.mp3
+- fonts/eightbitwonder.fnt
+- fonts/eightbitwonder.png 225x483 px 28.94kb - ![]()
+- images/explosion.png 72x72 px 3.76kb - ![]()
+- images/ghost.png 75x324 px 11kb - ![]()
+- images/hill.png 540x160 px 1.23kb - ![]()
+- images/loader_bar.png 454x66 px 330b - ![]()
+- images/sky.png 540x960px 4.31kb - ![]()
+- images/TitleBG.png 540x960px 150.09kb - ![]()
+- images/TitleImage.png 418x187px 17.53kb - ![]()
+- images/spritesheets/bunny.png 512x512px 90.58kb - ![]()
+- images/spritesheets/bunny.xml - []()
+- images/spritesheets/SpaceRock.png 1024x2048px 384.85kb - ![]()
+- images/spritesheets/SpaceRock.xml - []()
+- index.html
+- libs/phaser.js
+- libs/phaser.map
+- libs/phaser.min.js
