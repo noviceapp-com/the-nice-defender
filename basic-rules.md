@@ -23,13 +23,15 @@ it is somewhat interesting to point out that in previous years this complex cond
 
 #"i was nine and was always reminded that it isn't all about me!"
 
+![little hannah and her never-ending hang-over]()
+
 limited and highly subjective list of symptoms and hurdles faced by those affected by the condition were collated together by hannah and are based on her personal experience of the condition from which she is suffering since the age of 9. the creation of this list proved to be quite interesting but fairly difficult task ridden with its own peculiarities. the most intriguing one was related to the fact that Hannah being ill for most of her life cannot remember not being ill.
 
 #something about the list and potential co-op's
 
 the list is non-exclusive and it is rather certain that some other individuals who like hannah are affected by the condition might find the list presented here as somewhat limited. should this be the case in your case we would like to strongly encourage you to fork this repository and add to our list your own list of symptoms and subsequently create a pull request.
 
-please refer to section below containing info re contributing to the development, format of the text snippets and more detailed guidelines as to the styles and frameworks used in the development.
+please refer to [section containing info re contributing to the development](), format of the text snippets and more detailed guidelines as to the styles and frameworks used in the development.
 
 #"la la la la la la la"
 
@@ -41,7 +43,7 @@ do not underestimate these
 
 during 15 years of her personal struggle with unrecognized health condition Hannah stockpiled serious volume of ammunition represented in the game as speech bubbles with short text describing any particular symptom and which she will be launching at nice family members during the gameplay.
 
-![]() ![]() ![]() ![]()
+meteorites - ![]() ![]() ![]() ![]() ...
 
 you as a player must protect nice family members by all means ensuring that their blissful bubble of ignorance remains intact as long as it is possible.
 
@@ -51,13 +53,13 @@ in case you wonder how on earth would you be able to accomplish your main task y
 
 these tokens allow for creation of illusion of supportive atmosphere and are proven method for shutting up the individual in need without need for any greater effort on the part of nice family members or - god forbid - any actual commitment to provide meaningful support.
 
-![]() ![]() ![]() ![]()
+love and support - ![]() ![]() ![]() ![]() ...
 
 #on the crash course with the reality
 
-it is certain you wont be able to withstand the onslaught for ever and the point of the game is to keep the nice family member's bubbles of ignorance intact for as long as possible. with passing time you will be growing your avoider status and you might receive additional support in form of powerful "mantras", "half-truths" and "prejudices" which will help you stay longer in game.
+it is certain you wont be able to withstand the onslaught for ever and the point of the game is to keep the nice family member's bubbles of ignorance intact for as long as possible. with passing time you will be growing your avoider status and you might receive additional support in form of powerful !["mantras"](), !["half-truths"]() and !["prejudices"]() which will help you stay longer in the game.
 
-#"i blame the mother" or journey towards master avoider level
+#!["i blame the mother"]() or journey towards master avoider level
 
 here's the list of all the levels which you will have to clear on your journey to the master avoider level:
 
