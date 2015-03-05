@@ -1,21 +1,20 @@
-just following the old hacker's practices like:
+what follows is an intro to 'hello world' for html5 game dev with phaser.js [![ phaser.js](/_arch/_gitHub/_weAreThePlayMakers/the-nice-defender/assets/info-files-img/phaser-js-splash-scr.png)]()
 
-- making use of tools in a way these tools weren't intended to be used but
-- providing explanation as to whys and wherefores
-- and adhering to all-for-the-lulz methodologies
+here briefly a hacker's statement providing some explanation as to why's and wherefore's:
 
-here is a hello-world app which brings together phaser.js framework by means of
+- making use of tools in a way these tools weren't intended to be used
+- keeping in mind playful aspect or all-for-the-lulz principle
 
-step by step follow up to
+as previously mentioned this hello-world app brings together awesome html5 game dev framework phaser.js by means of step by step follow up to
 
-[joseph labrecque]()'s introduction to [![html5 game dev with phaser]()]()
+[![joseph labrecque]()]()'s introduction to [![html5 game dev with phaser](/_arch/_gitHub/_weAreThePlayMakers/the-nice-defender/assets/info-files-img/html5-game-dev-with-phaser-splash-scr.png)]()
 
-published by [![lynda.com]()]()
+recorded for and published by [![lynda.com](/_arch/_gitHub/_weAreThePlayMakers/the-nice-defender/assets/info-files-img/lynda-com-logo.png)]()
 
-plus my personal circumstances and maybe
+plus my personal circumstances and insanely twisted experiences of the edge of reality provided by [![@tala703]()]() plus dash of
 
-some expetrimentation with svg specification
+more fringe experimentation with web tech in this case [svg specification]()
 
-![read about the game]() or jump straight in
+[read about the game](/_arch/_gitHub/_weAreThePlayMakers/the-nice-defender/basic-rules.md) or jump straight in
 
 [![play the game]()]()
