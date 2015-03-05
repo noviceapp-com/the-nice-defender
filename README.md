@@ -1,4 +1,4 @@
-what follows is an intro to 'hello world' for html5 game dev with phaser.js [![ phaser.js](/_arch/_gitHub/_weAreThePlayMakers/the-nice-defender/assets/info-files-img/phaser-js-splash-scr.png)]()
+what follows is an intro to 'hello world' for html5 game dev with phaser.js [![ phaser.js](/_arch/_gitHub/_weAreThePlayMakers/the-nice-defender/assets/info-files-img/phaser-js-splash-scr.jpg)]()
 
 here briefly a hacker's statement providing some explanation as to why's and wherefore's:
 
@@ -7,9 +7,9 @@ here briefly a hacker's statement providing some explanation as to why's and whe
 
 as previously mentioned this hello-world app brings together awesome html5 game dev framework phaser.js by means of step by step follow up to
 
-[![joseph labrecque]()]()'s introduction to [![html5 game dev with phaser](/_arch/_gitHub/_weAreThePlayMakers/the-nice-defender/assets/info-files-img/html5-game-dev-with-phaser-splash-scr.png)]()
+[![joseph labrecque]()]()'s introduction to [![html5 game dev with phaser](/_arch/_gitHub/_weAreThePlayMakers/the-nice-defender/assets/info-files-img/html5-game-dev-with-phaser-splash-scr.jpg)]()
 
-recorded for and published by [![lynda.com](/_arch/_gitHub/_weAreThePlayMakers/the-nice-defender/assets/info-files-img/lynda-com-logo.png)]()
+recorded for and published by [![lynda.com](/_arch/_gitHub/_weAreThePlayMakers/the-nice-defender/assets/info-files-img/lynda-com-logo.jpg)]()
 
 plus my personal circumstances and insanely twisted experiences of the edge of reality provided by [![@tala703]()]() plus dash of
 

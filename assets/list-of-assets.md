@@ -35,9 +35,9 @@ the lists below are based on [basic-rules.md](/_arch/_gitHub/_weAreThePlayMakers
 3. list of graphics for README.md and info files:
 
 - [![joseph labrecque]()]()
--  [![phaser.js](/_arch/_gitHub/_weAreThePlayMakers/the-nice-defender/assets/info-files-img/phaser-js-splash-scr.png)]()
-- [![html5 game dev with phaser](/_arch/_gitHub/_weAreThePlayMakers/the-nice-defender/assets/info-files-img/html5-game-dev-with-phaser-splash-scr.png)]()
-- [![lynda.com](/_arch/_gitHub/_weAreThePlayMakers/the-nice-defender/assets/info-files-img/lynda-com-logo.png)]()
+-  [![phaser.js](/_arch/_gitHub/_weAreThePlayMakers/the-nice-defender/assets/info-files-img/phaser-js-splash-scr.jpg)]()
+- [![html5 game dev with phaser](/_arch/_gitHub/_weAreThePlayMakers/the-nice-defender/assets/info-files-img/html5-game-dev-with-phaser-splash-scr.jpg)]()
+- [![lynda.com](/_arch/_gitHub/_weAreThePlayMakers/the-nice-defender/assets/info-files-img/lynda-com-logo.jpg)]()
 - [![@tala703]()]()
 - [![svg specification]()]()
 - [![play the game]()]()
@@ -45,10 +45,24 @@ the lists below are based on [basic-rules.md](/_arch/_gitHub/_weAreThePlayMakers
 4. list of links for README.md and info files:
 
 - [![joseph labrecque]()]()
-- [![phaser.js](/_arch/_gitHub/_weAreThePlayMakers/the-nice-defender/assets/info-files-img/phaser-js-splash-scr.png)]()
-- [![html5 game dev with phaser](/_arch/_gitHub/_weAreThePlayMakers/the-nice-defender/assets/info-files-img/html5-game-dev-with-phaser-splash-scr.png)]()
-- [![lynda.com](/_arch/_gitHub/_weAreThePlayMakers/the-nice-defender/assets/info-files-img/lynda-com-logo.png)]()
+- [![phaser.js](/_arch/_gitHub/_weAreThePlayMakers/the-nice-defender/assets/info-files-img/phaser-js-splash-scr.jpg)]()
+- [![html5 game dev with phaser](/_arch/_gitHub/_weAreThePlayMakers/the-nice-defender/assets/info-files-img/html5-game-dev-with-phaser-splash-scr.jpg)]()
+- [![lynda.com](/_arch/_gitHub/_weAreThePlayMakers/the-nice-defender/assets/info-files-img/lynda-com-logo.jpg)]()
 - [![@tala703]()]()
 - [![svg specification]()]()
 - ![read about the game]()
 - [![play the game]()]()
+
+5. list of graphics coresponding to bunny defender img files:
+
+- explosion.png 72x72 px 3.76kb - ![]()
+- ghost.png 75x324 px 11kb - ![]()
+- hill.png 540x160 px 1.23kb - ![]()
+- loader_bar.png 454x66 px 330b - ![]()
+- sky.png 540x960px 4.31kb - ![]()
+- TitleBG.png 540x960px 150.09kb - ![]()
+- TitleImage.png 418x187px 17.53kb - ![]()
+- spritesheets/bunny.png 512x512px 90.58kb - ![]()
+- spritesheets/bunny.xml - []()
+- spritesheets/SpaceRock.png 1024x2048px 384.85kb - ![]()
+- spritesheets/SpaceRock.xml - []()
