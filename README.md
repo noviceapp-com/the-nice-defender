@@ -15,3 +15,7 @@ published by [![lynda.com]()]()
 plus my personal circumstances and maybe
 
 some expetrimentation with svg specification
+
+![read about the game]() or jump straight in
+
+[![play the game]()]()
