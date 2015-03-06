@@ -25,7 +25,7 @@ as side-note we aim at establishing set of workarounds for integration of more c
 
 at first since bunnies seem somewhat inadequately dramatic and our preferred backdrop to the game would most definitely strive to get closer to the edges of reality even if not exactly by use of super advanced mechanics and tech but at least in terms of atmosphere and ... vocabulary? ...theme?
 
-anyway the upshot was getting rid of the bunnies ans creation/adaptation of whole new set of assets which we paired up with insanely twisted tales provided by [![@tala703](https://avatars1.githubusercontent.com/u/7087282?v=3&s=460)](https://github.com/tala703) [@tala703]([@tala703](https://github.com/tala703) which she bravely based on her own experiences of reality with all the surprising adventures and tragedies of everyday life.
+anyway the upshot was getting rid of the bunnies ans creation/adaptation of whole new set of assets which we paired up with insanely twisted tales provided by [@tala703](https://github.com/tala703) [![@tala703](https://avatars1.githubusercontent.com/u/7087282?v=3&s=460)](https://github.com/tala703) which she bravely based on her own experiences of reality with all the surprising adventures of everyday life as they would appear to every robot with drained, damaged or otherwise malfunctioning battery or any other energy source.   
 
 [read more about the story and rules of the game](/_arch/_gitHub/_weAreThePlayMakers/the-nice-defender/basic-rules.md) or jump straight in:
 
