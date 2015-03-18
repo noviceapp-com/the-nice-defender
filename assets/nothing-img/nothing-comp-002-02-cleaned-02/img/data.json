@@ -1,0 +1,151 @@
+{
+	"name": "nothing-comp-002-02.ai",
+	"width": 560,
+	"height": 960,
+	"layers": [
+		{
+			"x": "1188.36",
+			"y": "416.89",
+			"r": "1691.64",
+			"b": "816.68",
+			"width": "503.28",
+			"height": "399.79",
+			"layername": "bottom.svg",
+			"name": "bottom",
+			"type": "svg",
+			"filename": "bottom.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "605.92",
+			"y": "147.50",
+			"r": "1114.60",
+			"b": "402.84",
+			"width": "508.68",
+			"height": "255.34",
+			"layername": "top.svg",
+			"name": "top",
+			"type": "svg",
+			"filename": "top.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "25.92",
+			"y": "147.34",
+			"r": "534.60",
+			"b": "817.97",
+			"width": "508.68",
+			"height": "670.63",
+			"layername": "top-bottom.svg",
+			"name": "top-bottom",
+			"type": "svg",
+			"filename": "top-bottom.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-552.51",
+			"y": "149.27",
+			"r": "-49.16",
+			"b": "816.19",
+			"width": "503.35",
+			"height": "666.92",
+			"layername": "be-happy.svg",
+			"name": "be-happy",
+			"type": "svg",
+			"filename": "be-happy.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-1132.23",
+			"y": "146.45",
+			"r": "-626.35",
+			"b": "815.18",
+			"width": "505.88",
+			"height": "668.73",
+			"layername": "worry.svg",
+			"name": "worry",
+			"type": "svg",
+			"filename": "worry.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-1711.57",
+			"y": "149.22",
+			"r": "-1204.19",
+			"b": "816.35",
+			"width": "507.38",
+			"height": "667.13",
+			"layername": "roses.svg",
+			"name": "roses",
+			"type": "svg",
+			"filename": "roses.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-2290.82",
+			"y": "144.64",
+			"r": "-1786.99",
+			"b": "834.43",
+			"width": "503.83",
+			"height": "689.79",
+			"layername": "title.svg",
+			"name": "title",
+			"type": "svg",
+			"filename": "title.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-2871.64",
+			"y": "69.28",
+			"r": "-2368.36",
+			"b": "960.00",
+			"width": "503.28",
+			"height": "890.72",
+			"layername": "splash.svg",
+			"name": "splash",
+			"type": "svg",
+			"filename": "splash.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-4095.25",
+			"y": "-9.87",
+			"r": "-3584.75",
+			"b": "969.87",
+			"width": "510.50",
+			"height": "979.74",
+			"layername": "nothing.svg",
+			"name": "nothing",
+			"type": "svg",
+			"filename": "nothing.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		}
+	]
+}

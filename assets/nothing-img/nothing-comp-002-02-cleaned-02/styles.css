@@ -1,0 +1,72 @@
+#nothing{
+	position:absolute;
+	left:-4095px;
+	top:-10px;
+	width:511px;
+	height:980px;
+}
+
+#splash{
+	position:absolute;
+	left:-2872px;
+	top:69px;
+	width:503px;
+	height:891px;
+}
+
+#title{
+	position:absolute;
+	left:-2291px;
+	top:145px;
+	width:504px;
+	height:690px;
+}
+
+#roses{
+	position:absolute;
+	left:-1712px;
+	top:149px;
+	width:507px;
+	height:667px;
+}
+
+#worry{
+	position:absolute;
+	left:-1132px;
+	top:146px;
+	width:506px;
+	height:669px;
+}
+
+#be-happy{
+	position:absolute;
+	left:-553px;
+	top:149px;
+	width:503px;
+	height:667px;
+}
+
+#top-bottom{
+	position:absolute;
+	left:26px;
+	top:147px;
+	width:509px;
+	height:671px;
+}
+
+#top{
+	position:absolute;
+	left:606px;
+	top:148px;
+	width:509px;
+	height:255px;
+}
+
+#bottom{
+	position:absolute;
+	left:1188px;
+	top:417px;
+	width:503px;
+	height:400px;
+}
+
