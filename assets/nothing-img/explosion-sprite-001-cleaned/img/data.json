@@ -1,0 +1,125 @@
+{
+	"name": "explosion-sprite-001.ai",
+	"width": 100,
+	"height": 100,
+	"layers": [
+		{
+			"x": "0.00",
+			"y": "-0.00",
+			"r": "100.00",
+			"b": "100.00",
+			"width": "100.00",
+			"height": "100.00",
+			"layername": "Layer 1",
+			"name": "Layer-1",
+			"type": "div",
+			"visible": true,
+			"items": [
+				{
+					"x": 0,
+					"y": 0,
+					"r": "100.00",
+					"b": "100.00",
+					"width": "100.00",
+					"height": "100.00",
+					"layername": "explosion01.svg",
+					"name": "explosion01",
+					"type": "svg",
+					"filename": "explosion01.svg",
+					"visible": true
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"r": "100.00",
+					"b": "100.00",
+					"width": "100.00",
+					"height": "100.00",
+					"layername": "explosion02.svg",
+					"name": "explosion02",
+					"type": "svg",
+					"filename": "explosion02.svg",
+					"visible": true
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"r": "100.00",
+					"b": "100.00",
+					"width": "100.00",
+					"height": "100.00",
+					"layername": "explosion03.svg",
+					"name": "explosion03",
+					"type": "svg",
+					"filename": "explosion03.svg",
+					"visible": true
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"r": "100.00",
+					"b": "100.00",
+					"width": "100.00",
+					"height": "100.00",
+					"layername": "explosion04.svg",
+					"name": "explosion04",
+					"type": "svg",
+					"filename": "explosion04.svg",
+					"visible": true
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"r": "100.00",
+					"b": "100.00",
+					"width": "100.00",
+					"height": "100.00",
+					"layername": "explosion05.svg",
+					"name": "explosion05",
+					"type": "svg",
+					"filename": "explosion05.svg",
+					"visible": true
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"r": "100.00",
+					"b": "100.00",
+					"width": "100.00",
+					"height": "100.00",
+					"layername": "explosion06.svg",
+					"name": "explosion06",
+					"type": "svg",
+					"filename": "explosion06.svg",
+					"visible": true
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"r": "100.00",
+					"b": "100.00",
+					"width": "100.00",
+					"height": "100.00",
+					"layername": "explosion07.svg",
+					"name": "explosion07",
+					"type": "svg",
+					"filename": "explosion07.svg",
+					"visible": true
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"r": "100.00",
+					"b": "100.00",
+					"width": "100.00",
+					"height": "100.00",
+					"layername": "explosion08.svg",
+					"name": "explosion08",
+					"type": "svg",
+					"filename": "explosion08.svg",
+					"visible": true
+				}
+			]
+		}
+	]
+}
