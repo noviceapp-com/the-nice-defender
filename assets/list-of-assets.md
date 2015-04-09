@@ -1,3 +1,5 @@
+this file seriously needs an update
+
 assets necessary for the game. the list containing assets used temporarily and acquired together with introduction to [html5 game dev with phaser]() below.
 
 the lists below are based on [basic-rules.md](/_arch/_gitHub/_weAreThePlayMakers/the-nice-defender/basic-rules.md):
