@@ -1,4 +1,8 @@
-this is a workspace for nothing and the nice defender
+this is nothing-wrapper a svg element as a holder of web modules/canvas elements. here built using google web designer.  
+
+- splash scr, 
+- menu scr and 
+- about scr
 
 ![](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/the-nice-def-nothing-title-002.svg)
 
