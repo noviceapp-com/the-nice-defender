@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-640 -1176.7 560 960" style="enable-background:new -640 -1176.7 560 960">
+ <symbol id="nothing-title" viewBox="-255.3 -121.4 510.5 242.8">
+  <text transform="matrix(2.7.2.3-3.5-206-67.7)" style="font-size:44;font-family:&apos;Arial-Black&apos;;fill:#900">n</text>
+  <text transform="matrix(2.3-.5-.3-1.3-150-34)" style="font-size:44;font-family:&apos;Arial-Black&apos;;fill:#900">o</text>
+  <text transform="matrix(3.5-.7-.8-3.9-104-58.9)" style="font-size:44;font-family:&apos;Arial-Black&apos;;fill:#900">t</text>
+  <text transform="matrix(2.6.4.4-2.6-17.6-52)" style="font-size:44;font-family:&apos;Arial-Black&apos;;fill:#900">h</text>
+  <text transform="matrix(2-.4-.4-2 47-50.8)" style="font-size:44;font-family:&apos;Arial-Black&apos;;fill:#900">i</text>
+  <text transform="matrix(1.5.3.2-1.4 92-32)" style="font-size:44;font-family:&apos;Arial-Black&apos;;fill:#900">n</text>
+  <text transform="matrix(2-.8-.7-1.8 128-30.5)" style="font-size:44;font-family:&apos;Arial-Black&apos;;fill:#900">g</text>
+ </symbol>
+ <g style="fill:#fff;fill-opacity:.1">
+  <rect x="-15640" y="-5272" transform="matrix(.2-1 1 .2-12559-6312)" width="11200" height="19200"/>
+  <rect x="-16328" y="-9070" transform="matrix(.5-.9.9.5-5823-9026)" width="11200" height="19200"/>
+  <rect x="-15674" y="-12874" transform="matrix(.8-.6.6.8-252-7242)" width="11200" height="19200"/>
+  <rect x="-13760" y="-16226" transform="matrix(.9-.3.3.9 1774-3190)" width="11200" height="19200"/>
+  <rect x="-10814" y="-18720" width="11200" height="19200"/>
+  <rect x="-7193" y="-20056" transform="matrix(.9.3-.3.9-3672-86)" width="11200" height="19200"/>
+  <rect x="-3333" y="-20074" transform="matrix(.8.6-.6.8-6202-3908)" width="11200" height="19200"/>
+  <rect x="300" y="-18770" transform="matrix(.5.9-.9.5-4991-9694)" width="11200" height="19200"/>
+  <rect x="3268" y="-16302" transform="matrix(.2 1-1 .2 728-14271)" width="11200" height="19200"/>
+ </g>
+ <use xlink:href="#nothing-title" width="511" height="243" x="-255" y="-121" transform="matrix(1 0 0-1-360-918)"/>
+ <use xlink:href="#nothing-title" width="511" height="243" x="-255" y="-121" transform="matrix(1 0 0-1-360-772)"/>
+ <use xlink:href="#nothing-title" width="511" height="243" x="-255" y="-121" transform="matrix(1 0 0-1-360-623)"/>
+ <use xlink:href="#nothing-title" width="511" height="243" x="-255" y="-121" transform="matrix(1 0 0-1-360-476)"/>
+ <use xlink:href="#nothing-title" width="511" height="243" x="-255" y="-121" transform="matrix(1 0 0-1-360-328)"/>
+ <use xlink:href="#nothing-title" width="511" height="243" x="-255" y="-121" transform="matrix(1 0 0-1-360-1065)"/>
+</svg>

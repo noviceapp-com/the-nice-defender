@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 960" style="enable-background:new 0 0 560 960">
+ <defs>
+  <radialGradient cx="1.3" cy="960" r=".5" gradientTransform="matrix(560 0 0-960-305 922165)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#dbdbdb"/>
+   <stop offset=".5" style="stop-color:#525252"/>
+   <stop offset="1"/>
+  </radialGradient>
+ </defs>
+</svg>
