@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-640 -1139.8 560 960" style="enable-background:new -640 -1139.8 560 960">
+ <symbol id="nothing-title" viewBox="-255.3 -121.4 510.5 242.8">
+  <text transform="matrix(2.7.2.3-3.5-206-67.7)" style="font-size:44;font-family:&apos;Arial-Black&apos;;fill:#900">n</text>
+  <text transform="matrix(2.3-.5-.3-1.3-150-34)" style="font-size:44;font-family:&apos;Arial-Black&apos;;fill:#900">o</text>
+  <text transform="matrix(3.5-.7-.8-3.9-104-58.9)" style="font-size:44;font-family:&apos;Arial-Black&apos;;fill:#900">t</text>
+  <text transform="matrix(2.6.4.4-2.6-17.6-52)" style="font-size:44;font-family:&apos;Arial-Black&apos;;fill:#900">h</text>
+  <text transform="matrix(2-.4-.4-2 47-50.8)" style="font-size:44;font-family:&apos;Arial-Black&apos;;fill:#900">i</text>
+  <text transform="matrix(1.5.3.2-1.4 92-32)" style="font-size:44;font-family:&apos;Arial-Black&apos;;fill:#900">n</text>
+  <text transform="matrix(2-.8-.7-1.8 128-30.5)" style="font-size:44;font-family:&apos;Arial-Black&apos;;fill:#900">g</text>
+ </symbol>
+ <use xlink:href="#nothing-title" width="511" height="243" x="-255" y="-121" transform="matrix(1 0 0-1-360-881)"/>
+ <use xlink:href="#nothing-title" width="511" height="243" x="-255" y="-121" transform="matrix(1 0 0-1-360-735)"/>
+ <use xlink:href="#nothing-title" width="511" height="243" x="-255" y="-121" transform="matrix(1 0 0-1-360-586)"/>
+ <use xlink:href="#nothing-title" width="511" height="243" x="-255" y="-121" transform="matrix(1 0 0-1-360-439)"/>
+ <use xlink:href="#nothing-title" width="511" height="243" x="-255" y="-121" transform="matrix(1 0 0-1-360-291)"/>
+ <use xlink:href="#nothing-title" width="511" height="243" x="-255" y="-121" transform="matrix(1 0 0-1-360-1028)"/>
+</svg>
